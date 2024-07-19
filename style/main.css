@@ -208,7 +208,10 @@ body {
   
   text-transform: uppercase;
 }
-
+.wish h3{
+  font-size: 4rem;
+  margin: 10px 0 0;
+}
 .wish h5 {
   font-size: 2rem;
   font-weight: lighter;
